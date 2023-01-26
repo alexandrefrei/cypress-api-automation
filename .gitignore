@@ -1,0 +1,16 @@
+
+#Cypress File
+cypress/results/*
+cypress/reports/*
+cypress/screenshots/*
+cypress/videos/*
+results
+.idea
+allure-results
+allure-report
+
+environments/
+
+
+# Node Dependency directories
+node_modules/

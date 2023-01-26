@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "strict": true,
+    "downlevelIteration": true,
+    "baseUrl": ".",
+    "lib": ["es5", "dom"],
+    "types": ["cypress", "node"]
+  },
+  "include": ["cypress/**/*.ts", "cypress"],
+  "exclude": ["node_modules"] // which files to skip
+}
